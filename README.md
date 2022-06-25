@@ -9,3 +9,4 @@
 5. Статистический анализ [ссылка](https://github.com/520911/statistics_ml/blob/main/STPY_6.ipynb)
 6. Дисперсионный анализ, А/В тесты [ссылка](https://github.com/520911/statistics_ml/blob/main/STPY_7.ipynb)
 7. Статистический анализ NLP, ML [ссылка](https://github.com/520911/statistics_ml/blob/main/SYPT_8.ipynb)
+8. Pyspark практика [ссылка](https://github.com/520911/statistics_ml/blob/main/BD_python_spark.ipynb)
